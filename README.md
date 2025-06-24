@@ -36,12 +36,6 @@
 | **Detection Lab Deployment** | End-to-end threat-hunting lab | SIEM • SOC Ops |
 | _(more coming soon…)_ |
 
-<p align="center">
-  <!-- These repo cards will render once the projects are imported -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tope-Adekeye&repo=incident-response-playbooks" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tope-Adekeye&repo=DetectionLab" />
-</p>
-
 ---
 
 > *“Trusted for clear executive communication, actionable insights, and cross-functional collaboration.”*
