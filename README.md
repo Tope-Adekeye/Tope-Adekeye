@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Governance • Risk • Compliance • AI Ethics</b><br>
-  Denton, TX&nbsp;|&nbsp;<a href="mailto:adekeyetopeaiexpert@gmail.com">Email</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/your-linkedin-slug">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/Tope-Adekeye">GitHub</a>
+  Denton, TX&nbsp;|&nbsp;<a href="mailto:adekeyetopeaiexpert@gmail.com">Email</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/temitope-adekeye-001a04359/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://github.com/Tope-Adekeye">GitHub</a>
 </p>
 
 ---
